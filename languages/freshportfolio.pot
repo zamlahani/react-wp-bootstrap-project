@@ -1,0 +1,60 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fresh Portfolio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-15 04:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: setup/class-enqueue.php:171
+msgid "All project"
+msgstr ""
+
+#. Author of the theme
+msgid "Born Digital"
+msgstr ""
+
+#. Description of the theme
+msgid "Custom theme for Fresh Portfolio"
+msgstr ""
+
+#. Name of the theme
+msgid "Fresh Portfolio"
+msgstr ""
+
+#. URI of the theme
+msgid "https://fresh-forces.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://fresh-forces.com/whoarewe/"
+msgstr ""
+
+#: setup/class-enqueue.php:174
+msgid "name"
+msgstr ""
+
+#: setup/class-enqueue.php:172
+msgid "Search"
+msgstr ""
+
+#: setup/class-enqueue.php:161
+msgid "Search project"
+msgstr ""
+
+#: setup/class-enqueue.php:175
+msgid "Upload timestamp"
+msgstr ""
+
+#: setup/class-enqueue.php:166
+msgid "Welcome"
+msgstr ""
